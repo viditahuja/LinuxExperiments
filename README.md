@@ -10,7 +10,6 @@ Here are my Linux Shell Experiments:
 - [EXP4] (./Experiment4)
 - [EXP5] (./Experiment5)
 - [EXP6] (./Experiment6)
-- [EXP7] (./Experiment7)
 - [EXP8] (./Experiment8)
 - [EXP9] (./Experiment9)
 
